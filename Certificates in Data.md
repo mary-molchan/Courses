@@ -10,7 +10,7 @@
 
 <a href="https://www.udemy.com/certificate/UC-cc24dfef-3ade-41d0-8192-7eaa7a96b510/">Statistics for Business Analytics using MS Excel - Udemy</a>
 
-<a href="https://www.udemy.com/certificate/UC-9cd02a2d-e3e4-4ddc-b1c9-40011fda8adb/">Statistics and Probability using Excel - Udemy</a>
+<a href="https://www.udemy.com/certificate/UC-9cd02a2d-e3e4-4ddc-b1c9-40011fda8adb/">Statistics and Probability using Excel 👉 Udemy</a>
 
 <a href="mailto: example@mail.ru">example@mail.ru</a>
 
